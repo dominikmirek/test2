@@ -1,0 +1,34 @@
+body{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.obraz{
+    background-image: url(baner.png);
+    width: auto;
+    height: 250px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+}
+.prawy{
+    width: 40%;
+    height: 200px; 
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+    float: left;
+    padding-left: 1%;
+}
+.lewy{
+    width: 60%;
+    height: 200px;
+    float: left;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+    padding-left: 1%;
+    padding-top: 1%;
+}
